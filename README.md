@@ -44,7 +44,7 @@ cd random-password-generator-gui
 ```
 2. Run the script:
 ```bash
-python password_generator.py
+python random_pwd_generator.py
 ```
 
 ## 📷 Example
